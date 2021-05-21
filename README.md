@@ -24,14 +24,16 @@ m/d
 
 
 ### Categories
-* [JavaScript](URL)
-* [GitHub](URL)
-* [React/TypeScript](URL)
-* [Firebase](URL)
-* [Nextjs](URL)
-* [TILの書き方(Markdown)](URL)
-* [WordPress](URL)
-* [HTML/CSS](URL)
+* [JavaScript](JavaScript)
+* [GitHub](GitHub)
+* [React](React)
+* [TypeScript](TypeScript)
+* [Firebase](Firebase)
+* [Nextjs](Nextjs)
+* [TILの書き方(Markdown)](TILの書き方(Markdown))
+* [WordPress](WordPress)
+* [HTML](HTML)
+* [CSS](CSS)
 
 ---
 
@@ -45,7 +47,11 @@ m/d
 * [トピックを一言要約](URL)
 ---
 
-##### React/TypeScript
+##### React
+* [トピックを一言要約](URL)
+---
+
+##### TypeScript
 * [トピックを一言要約](URL)
 ---
 
@@ -65,6 +71,10 @@ m/d
 * [トピックを一言要約](URL)
 ---
 
-##### HTML/CSS
+##### HTML
+* [トピックを一言要約](URL)
+---
+
+##### CSS
 * [トピックを一言要約](URL)
 ---
